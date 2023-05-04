@@ -1,17 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Barış+Savak)](https://git.io/typing-svg)
 <p><em><a href="https://bariss30.github.io/">Personal Site</a></br>
 <img align='right' src="http://www.orcunokan.com/img/back-end-developer-programlama-dil-secimi.jpg"  width="240">
-<h3 align="center">I'm computer engineer in Turkey, BackEnd, FrontEnd and Database developer, I just graduated from computer engineering. I aim to improve myself to be one of the best.</h3>
+<h3 align="center">I'm computer engineer in Turkey,I am learning . I aim to improve myself to be one of the best.</h3>
 <h1 align="center">Hi 👋, I'm Barış Savak</h1>
-<h3 align="center">I am a junior cyber security expert
+<h3 align="center">I am a computer engineering student
 I study at DUMLUPINAR university</h3>
 
 ![alt text](http://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=400)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [...](...)
+- 🔭 I’m currently working on [...]()
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **cYBER SECURİTY** 
 
 - 👯 I’m looking to collaborate on [...](...)
 
