@@ -3,7 +3,7 @@
 <img align='right' src="http://www.orcunokan.com/img/back-end-developer-programlama-dil-secimi.jpg"  width="240">
 <h3 align="center">I'm computer engineer in Turkey,I am learning Cyber Security . I aim to improve myself to be one of the best.</h3>
 <h1 align="center">Hi 👋, I'm Barış Savak</h1>
-<h3 align="center">I am a computer engineering first class student
+<h3 align="center">I am a computer engineering second class student
 I study at DUMLUPINAR university</h3>
 
 ![alt text](http://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=400)
