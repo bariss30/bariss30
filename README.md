@@ -9,25 +9,7 @@ I study at DUMLUPINAR university</h3>
 ![alt text](http://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=400)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [...]()
 
-- 🌱 I’m currently learning **cYBER SECURİTY** 
-
-- 👯 I’m looking to collaborate on [...](...)
-
-- 🤝 I’m looking for help with [...](...)
-
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 📝 I regularly write articles on [...](...)
-
-- 💬 Ask me about **...**
-
-- 📫 How to reach me **barsavak@yandex.com**
-
-- 📄 Know about my experiences [...](...)
-
-- ⚡ Fun fact **...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
